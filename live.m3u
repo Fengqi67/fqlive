@@ -288,16 +288,10 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228324/42329891.smi
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233005/1/01.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="浙江",钱江都市
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233005/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="浙江",钱江都市
-http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 group-title="浙江",浙江经济生活
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233008/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="浙江",浙江经济生活
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233008/1/01.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="浙江",浙江经济生活
-http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 group-title="浙江",浙江教科影视
-http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 group-title="浙江",浙江教科影视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233002/1/01.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="浙江",浙江教科影视
@@ -306,10 +300,6 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233002/1/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232996/1/01.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="浙江",浙江民生休闲
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232996/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="浙江",浙江民生休闲
-http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 group-title="浙江",浙江新闻
-http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 group-title="浙江",浙江新闻
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233052/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="浙江",浙江新闻
@@ -318,12 +308,6 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233052/1/01.m3u8?fm
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233011/1/01.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="浙江",浙江少儿
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233011/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="浙江",浙江少儿
-http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 group-title="浙江",浙江国际
-http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 group-title="浙江",之江纪录
-http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 group-title="浙江",Y+
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="浙江",诸暨新闻综合
