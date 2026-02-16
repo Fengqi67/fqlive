@@ -134,33 +134,6 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236378/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV4美洲
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236335/index.m3u8
 
-#EXTINF:-1 group-title="超清",CCTV16 4K
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236716/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="超清",CCTV4K
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236655/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="超清",CCTV4K
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/01.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="超清",CCTV4K
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="超清",CCTV4K
-http://117.148.187.56/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="超清",CCTV4K
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/42330389.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="超清",CCTV4K
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/396328931.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="超清",北京卫视 4K
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236659/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="超清",深圳卫视 4K
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236657/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="超清",广东卫视 4K
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236661/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="超清",至瑧视界 4K
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235579/index.m3u8
-#EXTINF:-1 group-title="超清",咪咕8K
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236545/index.m3u8
-#EXTINF:-1 group-title="超清",咪视界 4K
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235583/index.m3u8
-
 #EXTINF:-1 group-title="卫视",北京卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228321/42329925.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视",北京卫视
@@ -396,12 +369,39 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236207/index.m3u8
 #EXTINF:-1 group-title="其他",移动高清电视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229434/1/index.m3u8?fmt=ts2hls
 
+#EXTINF:-1 group-title="华夏",凤凰资讯
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
+#EXTINF:-1 group-title="华夏",凤凰中文
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
+
 #EXTINF:-1 group-title="少儿",黑莓动画
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236261/index.m3u8
 #EXTINF:-1 group-title="少儿",黑莓动画
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228362/42613591.smil/index.m3u8?fmt=ts2hls
 
-#EXTINF:-1 group-title="华夏",凤凰资讯
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
-#EXTINF:-1 group-title="华夏",凤凰中文
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
+#EXTINF:-1 group-title="超清",CCTV16 4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236716/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="超清",CCTV4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236655/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="超清",CCTV4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/01.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="超清",CCTV4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="超清",CCTV4K
+http://117.148.187.56/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="超清",CCTV4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/42330389.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="超清",CCTV4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="超清",北京卫视 4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236659/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="超清",深圳卫视 4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236657/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="超清",广东卫视 4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236661/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="超清",至瑧视界 4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235579/index.m3u8
+#EXTINF:-1 group-title="超清",咪咕8K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236545/index.m3u8
+#EXTINF:-1 group-title="超清",咪视界 4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235583/index.m3u8
