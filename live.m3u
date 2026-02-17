@@ -256,7 +256,11 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236252/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236416/index.m3u8
 
 #EXTINF:-1 group-title="浙江",浙江卫视
+http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+#EXTINF:-1 group-title="浙江",浙江卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236269/index.m3u8
+#EXTINF:-1 group-title="浙江",浙江卫视
+http://ali-xwl.cztv.com/live/channel011080Pnew.m3u8
 #EXTINF:-1 group-title="浙江",浙江卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228324/01.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="浙江",钱江都市
@@ -283,6 +287,8 @@ http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233011/1/01.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="浙江",浙江少儿
 http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
+#EXTINF:-1 group-title="浙江",浙江少儿
+http://ali-xwl.cztv.com/live/channel081080Pnew.m3u8
 #EXTINF:-1 group-title="浙江",浙江国际
 http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
 #EXTINF:-1 group-title="浙江",诸暨新闻综合
@@ -407,6 +413,12 @@ http://117.148.187.56/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32212293
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/42330389.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="超清",CCTV4K
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="超清",浙江卫视 4K
+http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+#EXTINF:-1 group-title="超清",浙江卫视 4K
+https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
+#EXTINF:-1 group-title="超清",浙江卫视 4K
+http://play-qukan.cztv.com/live/1758879019692345.m3u8
 #EXTINF:-1 group-title="超清",北京卫视 4K
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236659/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="超清",湖南卫视 4K
