@@ -387,12 +387,6 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235614/1/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235445/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="浙江",舟山新闻综合
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235449/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="浙江",嘉兴文化影视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235447/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="浙江",嘉兴新闻综合
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235458/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="浙江",嘉兴公共
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235460/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="浙江",丽水新闻综合
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235523/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="浙江",丽水新闻综合
@@ -403,8 +397,6 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235524/1/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235526/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="浙江",湖州新闻综合
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235527/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="浙江",湖州文化娱乐
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235529/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="其他",至瑧视界 4K
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235579/index.m3u8
 #EXTINF:-1 group-title="其他",咪视界 4K
